@@ -1,2 +1,2 @@
 # podzol-launcher
-PL
+hampster
